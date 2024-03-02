@@ -1,7 +1,7 @@
 {
   "name": "next-app",
   "version": "0.1.0",
-  "homepage": "https://liyajosy.github.io/next-app",
+  "homepage": "https://liyajosy.github.io/next-project",
   "private": true,
   "scripts": {
     "dev": "next dev",
